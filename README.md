@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on BLDC motor control
 ### 🌱 I’m currently learning Linux system and kernel programming
-### 👯 I’m looking to collaborate on -
+### 👯 I’m looking to collaborate on Linux and C projects
 ### 🤔 I’m looking for help with Linux kernel programming learning
 ### 💬 Ask me about C,Linux
 ### 📫 How to reach me: lokeshch007@gmail.com
