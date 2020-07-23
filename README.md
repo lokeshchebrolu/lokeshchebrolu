@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on BLDC motor control
+### 🔭 I’m currently working on Floor cleaning robot
 ### 🌱 I’m currently learning Linux system and kernel programming
 ### 👯 I’m looking to collaborate on Linux and C projects
 ### 🤔 I’m looking for help with Linux kernel programming learning
