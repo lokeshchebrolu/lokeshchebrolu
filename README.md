@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on Floor cleaning robot
+### 🔭 I’m currently working on snake-game
 ### 🌱 I’m currently learning Linux system and kernel programming
 ### 👯 I’m looking to collaborate on Linux,C and Embedded projects
 ### 🤔 I’m looking for help with Linux kernel programming learning
