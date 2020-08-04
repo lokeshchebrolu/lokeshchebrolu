@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on snake-game
-### 🌱 I’m currently learning Linux system and kernel programming
+### 🌱 I’m currently learning embedded linux
 ### 👯 I’m looking to collaborate on Linux,C and Embedded projects
 ### 🤔 I’m looking for help with Linux kernel programming learning
 ### 💬 Ask me about C,Linux
