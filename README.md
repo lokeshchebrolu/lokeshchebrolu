@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on rubiks_cube_formulae_generator
+### 🔭 I’m currently working on Beaglebone Black
 ### 🌱 I’m currently learning embedded linux
 ### 👯 I’m looking to collaborate on Linux,C and Embedded projects
 ### 🤔 I’m looking for help with Linux kernel programming learning
